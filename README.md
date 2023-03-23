@@ -2,7 +2,7 @@
 
 ## Description
 
-This Study Guide was created for myself and fellow boot camp students who were going through the prework to organize and navigate through all the notes and information. It contains notes on the initial learnings and fundamentals of HTML, CSS, Git, and JavaScript. This tool helps as a students guide for students to refer back to as they go through the bootcamp. This project helped me learn how to build a web application using HTML, CSS, Git, and JavaScript.
+For this Module 1 Challenge, the challege was to replicate an on-the-job ticket where we begin with starter code and have to modify it. The main skill that we were trying to learn with this challege was refactoring so that the codebase follows accessibility standards and is optimized for search engines. This would be accomplished by adding semantic HTML elements and having the elements follow a logical structure. Along with, having accessible attributes to the image, heading, section, and title elements. This module challenge includes aspects of HTML and CSS.
 
 ## Installation
 
@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-To use this Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (MacOS) OR Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from Prework along with a suggestion on which topic to study first. 
+This site is used by a marketing agency so that visitors can easily navigate through the services that they provide. To use this site, visitors will click on one of the three topics at the top right of the page and the site will navigate down to the correct topic section where there is a description for each topic.
 
 
 ## Credits
