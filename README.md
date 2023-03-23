@@ -11,6 +11,7 @@ N/A
 ## Usage
 
 This site is used by a marketing agency so that visitors can easily navigate through the services that they provide. To use this site, visitors will click on one of the three topics at the top right of the page and the site will navigate down to the correct topic section where there is a description for each topic.
+https://thanhmhoang.github.io/module-1-challenge/
 
 
 ## Credits
